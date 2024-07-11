@@ -116,7 +116,7 @@ The game itself is in `train.py`, but the training starts from `agent.py` which 
 ![Initial State](src/assets/Other/ChromeDino.gif)
 
 ### AI in Action
-![AI in Action](src/assets/Other/ChromeDino.mp4)
+![AI in Action](src/assets/Other/ChromeDino1.gif)
 
 ## Contributing 🤝
 
