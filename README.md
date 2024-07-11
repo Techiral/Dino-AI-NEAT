@@ -6,7 +6,7 @@
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 ![Stars](https://img.shields.io/github/stars/Techiral/Dino-AI-NEAT?style=social)
 
-![Chrome Dino Game](src/assets/Other/ChromeDino.mp4)
+![Chrome Dino Game](src/assets/Other/ChromeDino1.gif)
 
 ## Table of Contents
 1. [Overview](#overview)
