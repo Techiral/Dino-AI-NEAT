@@ -163,11 +163,11 @@ For more details, see the [LICENSE](./LICENSE) file.
 
 Feel free to reach out for collaboration or questions!
 
-- **YouTube**: [Techiral](https://youtube.com/Techiral)
-- **Twitter**: [@Techiral](https://twitter.com/Techiral)
+- **YouTube**: [Techiral](http://www.youtube.com/@techiral?sub_confirmation=1)
+- **Twitter**: [Techiral](https://x.com/techiral_)
 - **GitHub**: [Techiral](https://github.com/Techiral)
 
 ## Learn More 📚
 
 - **Watch the Full Tutorial**: [AI Learns How To Play The Chrome Dinosaur Game](https://youtu.be/aNjsatpVXqw)
-- **Read the Blog Post**: [Medium Article](https://medium.com/@gregoryg323/neural-networks-play-chromes-dino-game-with-neat-python-defe7c46a7f8)
+- **Read the Blog Post**: [Mastering Chrome Dino with AI](https://techiral.medium.com/mastering-chrome-dino-with-ai-7fe222195060)
